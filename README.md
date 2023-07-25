@@ -4,9 +4,10 @@ To use the calculator, simply open the index.html file in a web browser. You wil
 
 Features
 The calculator supports the following features:
-
+Responsive website
 Basic arithmetic operations: addition, subtraction, multiplication, and division
 Clear button: clears all the text fields
+
 
 ![image](https://github.com/anany057/Calculator/assets/112336313/91f00efa-0f05-4455-bb30-403d77f51357)
 
