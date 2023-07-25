@@ -13,4 +13,6 @@ Clear button: clears all the text fields
 
 
 
-![image](https://github.com/anany057/Calculator/assets/112336313/50198592-3762-479c-81fb-b70a29ec72f5)
+
+https://github.com/anany057/Calculator/assets/112336313/51ac6a90-527e-4629-8418-58555fe9a536
+
