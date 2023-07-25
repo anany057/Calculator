@@ -7,3 +7,9 @@ The calculator supports the following features:
 
 Basic arithmetic operations: addition, subtraction, multiplication, and division
 Clear button: clears all the text fields
+
+![image](https://github.com/anany057/Calculator/assets/112336313/91f00efa-0f05-4455-bb30-403d77f51357)
+
+
+
+![image](https://github.com/anany057/Calculator/assets/112336313/50198592-3762-479c-81fb-b70a29ec72f5)
